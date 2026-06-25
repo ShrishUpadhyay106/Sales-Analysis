@@ -22,16 +22,10 @@ An interactive **Power BI Sales Analysis Dashboard** that provides insights into
 ## 📷 Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](Images/sales_overview.png)
-
-### Sales Performance
-![Sales Performance](Images/sales_performance.png)
-
-### Product Analysis
-![Product Analysis](Images/product_analysis.png)
+![Sales Overview](sales_overview.png)
 
 ### KPI Dashboard
-![KPI Dashboard](Images/kpi_dashboard.png)
+![KPI Dashboard](kpi_dashboard.png)
 
 ## 📌 Key Insights
 
